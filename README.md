@@ -2,11 +2,9 @@
 
 An interactive, physics-based 3D model of the original PlayStation 5 disc edition. The simulation exposes the cooling path from the AMD SoC and liquid-metal interface through the heat pipes, fin stacks, and dual-inlet fan.
 
-<video src="https://raw.githubusercontent.com/nikitph/playstation-5-machine/main/playstation-5.mp4" controls poster="https://raw.githubusercontent.com/nikitph/playstation-5-machine/main/poster.jpg" width="100%"></video>
+[![PlayStation 5 simulation film](preview.gif)](https://github.com/nikitph/playstation-5-machine/blob/main/playstation-5.mp4?raw=1)
 
-[![Watch the 28-second simulation film](poster.jpg)](https://github.com/nikitph/playstation-5-machine/blob/main/playstation-5.mp4?raw=1)
-
-_Click the image if the inline player is unavailable._
+[Watch or download the full 28-second, 1080p film](https://github.com/nikitph/playstation-5-machine/blob/main/playstation-5.mp4?raw=1).
 
 ## Run the simulation
 
@@ -26,6 +24,7 @@ The model is an educational visualization rather than manufacturing CAD. Thermal
 
 - `index.html` — self-contained interactive simulation; Three.js and fonts load from CDNs
 - `playstation-5.mp4` — 28-second, 1920×1080 H.264 film
+- `preview.gif` — animated README preview linked to the full film
 - `poster.jpg` — film poster and README fallback
 
 PlayStation and PS5 are trademarks of Sony Interactive Entertainment. This independent educational project is not affiliated with or endorsed by Sony.
